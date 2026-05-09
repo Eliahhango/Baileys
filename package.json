@@ -46,7 +46,7 @@
   "devDependencies": {
     "@adiwajshing/eslint-config": "github:adiwajshing/eslint-config",
     "@types/got": "^9.6.11",
-    "@types/jest": "^27.5.1",
+    "@types/jest": "^30.0.0",
     "@types/node": "^16.0.0",
     "@types/sharp": "^0.29.4",
     "@types/ws": "^8.0.0",
